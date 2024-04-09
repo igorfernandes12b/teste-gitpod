@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px-;
+
+}
+
+li {
+    color: blueviolet;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    
+}
+
+h1 {
+    color: brown;
+    padding-bottom: 12px;
+}
+
+p {
+    color: purple;
+    padding-bottom: 24px;
+    padding-top: 24px;
+}
+
+div {
+    background-color: bisque;
+    text-align: center;
+    
+
+}
+
+body{
+    background-color: black;
+}
+
